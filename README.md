@@ -72,6 +72,6 @@ This Telegram bot fetches direct download links from Fshare URLs.
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue.
 
-## License
+## Contact
 
-[Specify your license here, e.g., MIT License]
+For quick support or questions, you can reach out on Discord: https://discord.com/users/929735117117730828
